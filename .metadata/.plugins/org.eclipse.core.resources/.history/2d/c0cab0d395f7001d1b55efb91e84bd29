@@ -1,0 +1,12 @@
+package com.springcore.ref;
+
+import org.springframework.context.ApplicationContext;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+ApplicationContext context=new PathClassXmlApplicationContext("");
+
+	}
+
+}
